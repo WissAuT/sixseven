@@ -15,7 +15,7 @@ public class Calculator
     public double Divide(int a, int b)
     {
         if (b == 0)
-            throw new ArgumentException("На ноль делить нельзя!");
+            throw new ArgumentException("Cannot divide by zero!");
         return (double)a / b;
     }
 
