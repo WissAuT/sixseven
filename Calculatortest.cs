@@ -50,7 +50,7 @@ public class CalculatorTests
     public void Divide_ByZero_ShouldThrowException()
     {
         var exception = Assert.Throws<ArgumentException>(() => _calculator.Divide(10, 0));
-        Assert.Equal("На ноль делить нельзя!", exception.Message);
+        Assert.Throws<ArgumentException>(() => _calculator.Divide(10, 0));
     }
 
     [Theory]

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\projects\\C#\\TestProject5Laba\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18FBBAE2-D70D-4EBA-AB6A-C96B5077B822}|TestProject5Laba.csproj|d:\\projects\\c#\\testproject5laba\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FBBAE2-D70D-4EBA-AB6A-C96B5077B822}|TestProject5Laba.csproj|solutionrelative:calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18FBBAE2-D70D-4EBA-AB6A-C96B5077B822}|TestProject5Laba.csproj|d:\\projects\\c#\\testproject5laba\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18FBBAE2-D70D-4EBA-AB6A-C96B5077B822}|TestProject5Laba.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18FBBAE2-D70D-4EBA-AB6A-C96B5077B822}|TestProject5Laba.csproj|d:\\projects\\c#\\testproject5laba\\testproject5laba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{18FBBAE2-D70D-4EBA-AB6A-C96B5077B822}|TestProject5Laba.csproj|solutionrelative:testproject5laba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18FBBAE2-D70D-4EBA-AB6A-C96B5077B822}|TestProject5Laba.csproj|d:\\projects\\c#\\testproject5laba\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18FBBAE2-D70D-4EBA-AB6A-C96B5077B822}|TestProject5Laba.csproj|solutionrelative:calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TestProject5Laba.csproj",
               "DocumentMoniker": "D:\\projects\\C#\\TestProject5Laba\\TestProject5Laba.csproj",
               "RelativeDocumentMoniker": "TestProject5Laba.csproj",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Calculator.cs",
               "DocumentMoniker": "D:\\projects\\C#\\TestProject5Laba\\Calculator.cs",
               "RelativeDocumentMoniker": "Calculator.cs",
@@ -55,15 +55,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Calculatortest.cs",
               "DocumentMoniker": "D:\\projects\\C#\\TestProject5Laba\\Calculatortest.cs",
               "RelativeDocumentMoniker": "Calculatortest.cs",
               "ToolTip": "D:\\projects\\C#\\TestProject5Laba\\Calculatortest.cs",
               "RelativeToolTip": "Calculatortest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwDQAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:09:00.624Z"
+              "WhenOpened": "2026-05-07T10:09:00.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

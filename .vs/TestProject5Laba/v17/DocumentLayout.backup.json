@@ -31,15 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TestProject5Laba",
+              "Title": "TestProject5Laba.csproj",
               "DocumentMoniker": "D:\\projects\\C#\\TestProject5Laba\\TestProject5Laba.csproj",
               "RelativeDocumentMoniker": "TestProject5Laba.csproj",
               "ToolTip": "D:\\projects\\C#\\TestProject5Laba\\TestProject5Laba.csproj",
               "RelativeToolTip": "TestProject5Laba.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-07T10:11:10.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:11:10.284Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Calculator.cs",
               "ToolTip": "D:\\projects\\C#\\TestProject5Laba\\Calculator.cs",
               "RelativeToolTip": "Calculator.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T10:10:05.987Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Calculatortest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:09:00.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:09:00.624Z"
             },
             {
               "$type": "Bookmark",
